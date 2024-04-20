@@ -1,5 +1,7 @@
 use String;
 
+mod test;
+
 fn main() {
     test();
     array();
